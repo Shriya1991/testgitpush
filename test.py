@@ -17,3 +17,7 @@ db1 = client['myinfo']
 coll = db1['sudh']
 coll.insert_one(d)
 
+
+
+
+
